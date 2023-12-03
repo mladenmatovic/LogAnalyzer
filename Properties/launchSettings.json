@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Mladen\\Desktop\\UnifiedPost"
+    }
+  }
+}
